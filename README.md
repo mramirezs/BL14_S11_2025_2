@@ -796,7 +796,6 @@ echo "🔓 MENSAJE DECODIFICADO EXITOSAMENTE"
    - `mision1_insulina.sh`
    - `mision2_conversion.sh`
    - `mision3_traductor.sh`
-   - `mision4_escaner.sh`
 
 2. **📸 Capturas de pantalla mostrando:**
    - La ejecución de cada script
@@ -819,9 +818,6 @@ echo "🔓 MENSAJE DECODIFICADO EXITOSAMENTE"
    Resultado: [Descripción de lo que hizo tu script]
    
    MISIÓN 3 - STATUS: [COMPLETADA/FALLIDA]
-   Resultado: [Descripción de lo que hizo tu script]
-   
-   MISIÓN 4 - STATUS: [COMPLETADA/FALLIDA]
    Resultado: [Descripción de lo que hizo tu script]
 
    LECCIONES APRENDIDAS:
