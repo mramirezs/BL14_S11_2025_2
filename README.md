@@ -52,6 +52,42 @@ echo "en este momento te encuentras trabajando en este $lugar, no vayas a perder
 
 ### 📝 Buenas prácticas y recursos:
 
+La primera lìnea del script le indica al sistema que tiene que usar.
+
+> Bash
+
+```bash
+$ cat my_script.sh
+```
+
+```
+#!/bin/bash
+
+echo "Hello world"
+```
+
+```bash
+$ bash my_script.sh
+$ Hello World
+```
+
+> Python
+
+```bash
+$ cat my_script.py
+```
+
+```
+#!/usr/bin/python
+
+print("Hello world")
+```
+
+```bash
+$ python my_script.sh
+$ Hello World
+```
+
 - [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 - [Anyone Can Write Good Bash](https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort)
 - [Bash Style Guide and Coding Standard](https://lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf)
